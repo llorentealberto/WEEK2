@@ -1,0 +1,14 @@
+{
+  "name": "ejercicios-fundamentos",
+  "version": "1.0.0",
+  "description": "ejercicios de la priemra parte del modulo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
